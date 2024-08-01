@@ -41,5 +41,6 @@ Make sure you have Node.js and npm installed on your system.
 4. **Running the App:**
    ```bash
    npm start
-  
 
+### Deployed Link: 
+https://todolist-using-redux-bymk.netlify.app/
